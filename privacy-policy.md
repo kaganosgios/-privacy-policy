@@ -69,6 +69,10 @@ Data deletion request: contact us directly
 Tarot Vision AI is not intended for children under 13. We do not knowingly collect data from children.
 If we discover such data was collected, it will be deleted immediately. Parents can contact us to take action.
 
+## Account Deletion
+
+You may delete your account at any time by navigating to **Settings > Delete My Account** in the app. This will permanently remove all data associated with your account.
+
 6. Data Retention
 We retain data only as long as necessary for:
 
